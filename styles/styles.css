@@ -1,0 +1,62 @@
+body {
+  background-color: green;
+}
+
+.centro {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
+
+#number {
+  text-align: center;
+}
+
+#table {
+  margin: 0px auto;
+  width: 30%;
+
+}
+
+.errortext {
+  color: red;
+}
+
+.errorinput {
+  background: rgba(255,0, 0, 0.2);
+}
+
+.ganaste {
+  position:fixed;
+  padding:0;
+  margin:0;
+
+  text-align: center;
+
+  top:0;
+  left:0;
+
+  width: 100%;
+  height: 100%;
+  background:rgba(5,5,5,0.6);
+  color: white;
+}
+
+.info {
+  margin: 25%;
+}
+.info h1 {
+  font-size: 70px;
+}
+.info button {
+  background-color: #FF8C00;
+  border-radius: 10px;
+  width: 250px;
+  height: 40px;
+  color: white;
+}
+
+.hide {
+  visibility: hidden;
+}
